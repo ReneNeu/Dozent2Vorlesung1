@@ -1,3 +1,3 @@
-# Dozent2Vorlesung1
+# Info
 
-Informationsblatt zur Vorlesung.
+Die Vorlesung entfällt.

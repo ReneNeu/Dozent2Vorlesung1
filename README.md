@@ -1,3 +1,0 @@
-# Info
-
-Die Vorlesung entfällt.
